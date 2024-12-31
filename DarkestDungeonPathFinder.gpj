@@ -25,9 +25,9 @@ s#t0ignore/help
 s#w0debug/canvases
 !271;g
 %\011src%smain%sjava%sDarkestDungeonPathFinderModule%sDarkestDungeonPathFinderPackage%sMain.java
-%\011src%smain%sjava%sDarkestDungeonPathFinderModule%smodule-info.java
 %\011src%smain%sjava%sDarkestDungeonPathFinderModule%sDarkestDungeonPathFinderPackage%sPathFinder.java
+%\011src%smain%sjava%sDarkestDungeonPathFinderModule%smodule-info.java
 !271;f
 %\011src%smain%sjava%sDarkestDungeonPathFinderModule%sDarkestDungeonPathFinderPackage%sMain.java
-%\011src%smain%sjava%sDarkestDungeonPathFinderModule%smodule-info.java
 %\011src%smain%sjava%sDarkestDungeonPathFinderModule%sDarkestDungeonPathFinderPackage%sPathFinder.java
+%\011src%smain%sjava%sDarkestDungeonPathFinderModule%smodule-info.java
